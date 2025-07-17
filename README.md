@@ -1,6 +1,7 @@
 # 💻 Mauro Eduard
 
-Me chamo Mauro Eduard da Silva, moro em Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSC. Fã da tecnologia e sempre buscando mais conecimentos na área.
+Olá! Me chamo Mauro Eduard da Silva e moro em Santa Catarina. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFSC.
+Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios na área de TI.
 
 <p align="left">
     <a href="https://github.com/MauroEdua">
